@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Error will through
+// Error will through because not used double quotes
 int main()
 {
     
